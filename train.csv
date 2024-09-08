@@ -1,0 +1,3 @@
+,video_name,tag
+0,dataset/train/person_moving/test1.mp4,person_moving
+1,dataset/train/person_not_moving/Ntest1.mp4,person_not_moving
